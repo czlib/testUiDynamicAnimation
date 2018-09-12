@@ -20,7 +20,6 @@
 					<true/>
 					<key>url</key>
 					<string>
-你的服务器下载时URL图片 2倍图
 </string>
 				</dict>
 				<dict>
@@ -29,9 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>
-你的服务器下载时的图片地址
-</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
